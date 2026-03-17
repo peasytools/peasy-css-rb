@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/peasy-css.svg)](https://rubygems.org/gems/peasy-css)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://agentgif.com/badge/github/peasytools/peasy-css-rb/stars.svg)](https://github.com/peasytools/peasy-css-rb)
 
 Ruby client for the [PeasyCSS](https://peasycss.com) API -- minify, beautify, and convert CSS units with tools for gradient generation, shadow creation, flexbox layouts, and grid systems. Zero dependencies beyond Ruby stdlib (Net::HTTP, JSON, URI).
 
