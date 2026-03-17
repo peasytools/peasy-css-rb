@@ -2,3 +2,4 @@
 
 require_relative "peasy_css/version"
 require_relative "peasy_css/engine"
+require_relative "peasy_css/client"
